@@ -65,5 +65,5 @@ TBD (to be decided as the project matures).
 
 ## Links
 
-- [Learning Plan](./Learning_Plan.md): Skills I’m tackling.
-- [Build Steps](./Build_Steps.md): Roadmap to completion.
+- [Learning Plan](./skill-statsis/learning-plan.md): Skills I’m tackling.
+- [Build Steps](./skill-statsis/build-steps.md): Roadmap to completion.
