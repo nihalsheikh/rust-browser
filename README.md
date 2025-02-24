@@ -29,7 +29,7 @@ To build this, I’m mastering:
 6. **UI**: `iced` for native interfaces.
 7. **Android**: NDK for mobile support.
 
-Leveraging my HTML5, CSS3, and JS skills, I expect 6-12 months of learning. See [Learning_Plan.md](./Learning_Plan.md) for details.
+Leveraging my HTML5, CSS3, and JS skills, I expect 6-12 months of learning. See [Learning_Plan.md](./skill-statsis/learning-plan.md) for details.
 
 ## Build Steps Summary
 
@@ -39,7 +39,7 @@ The engine’s built in phases:
 3. **UI & Polish**: Tabs, advanced rendering (12-18 months).
 4. **Chrome-Killer**: Standards, cache, extensions, release (18-36+ months).
 
-Total solo build time: 3-5+ years. Check [Build_Steps.md](./Build_Steps.md) for the full roadmap.
+Total solo build time: 3-5+ years. Check [Build_Steps.md](./skill-statsis/build-steps.md) for the full roadmap.
 
 ## Engine Parts
 
